@@ -7,6 +7,7 @@
   
 ## 2주차 과제 ( 2020.05.28 )
   [파이썬과 인공지능 기초수학](2주차과제.ipynb)
+  
   https://nbviewer.jupyter.org/github/SW-H/GwangjuAI_pre/tree/master/
   
 ## 3주차 과제 ( 2020.06.04 )
