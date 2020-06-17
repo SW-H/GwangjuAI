@@ -4,7 +4,12 @@
   [인공지능 사례 분석](1주차과제.ipynb)
   
 ## 2주차 과제 ( 2020.05.28 )
-  [파이썬과 인공지능 기초수학](2주차과제.ipynb)
+  [파이썬과 인공지능 기초수학](2주차과제.ipynb)
+  
+  
+  https://nbviewer.jupyter.org/github/SW-H/GwangjuAI_pre/tree/master/ 
+  2주차 파일만 뷰어로 여니 안열려서 우선 respository 통째로 링크 달아요 
+  
   
 ## 3주차 과제 ( 2020.06.04 )
   [학습률 최적화, 군집 분석 구현, Cost Function 구현](3주차_과제.ipynb)
